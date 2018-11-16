@@ -1,0 +1,41 @@
+@charset "utf-8";
+p {
+	color: #0B0B0B;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-style: normal;
+	font-size: large;
+	width: 300px;
+	text-align: center;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#banner {
+	width: 900px;
+	height: 300px;
+	left: auto;
+	right: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+#ballet img {
+	margin-left: auto;
+	margin-right: auto;
+	width: 1024px;
+	height: 400px;
+	background-color: #9A9A9A;
+	text-align: center;
+}
+#img3 img {
+	float: right;
+}
+
+#ballet {
+	text-shadow: 0px 0px #02F3FF;
+}
+#text {
+	height: 800px;
+	width: 0px;
+
+}
