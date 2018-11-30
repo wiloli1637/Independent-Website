@@ -45,3 +45,15 @@ p {
 #text {
 	text-align: center;
 }
+#text2 {
+}
+#gimmethatcolor {
+	background-color: grey;
+	text-align: center;
+}
+#gimmethatcolor #text2 h3 {
+	width: 500px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
